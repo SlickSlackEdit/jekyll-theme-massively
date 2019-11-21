@@ -11,10 +11,10 @@ locale:             en_CA
 
 # Social
 #analytics-id:       "default"
-#twitter:            default
+twitter:             slickslack
 #facebook:           default
 #instagram:          default
-#github:             default
+github:              SlickSlackEdit
 
 # personal
 location:           Toronto, ON
