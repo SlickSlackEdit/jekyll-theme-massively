@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to SlickSlack Land"
 date:   2019-11-11
 excerpt: "It will take a while to get up to speed but once it does... well... I am not sure what happens then."
-image: "/images/pic02.jpg"
+image: "images/ID_swissicon.jpg"
 ---
 
 ## How to Use This Theme
