@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Massively: The Jekyll Theme!"
-date:   2017-10-31
-excerpt: "Huge thanks to HTML5 UP for making this awesome template! Let's see what it can do"
+title:  "Welcome to SlickSlack Land"
+date:   2019-11-11
+excerpt: "It will take a while to get up to speed but once it does... well... I am not sure what happens then."
 image: "/images/pic02.jpg"
 ---
 
