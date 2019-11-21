@@ -21,6 +21,6 @@ I dont know that I'll ever really need to use this (Code? what code?) But I've p
   </p>
 </div>
 
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "images/ID_cat.jpg" | absolute_url }}" alt="" /></span>
 
 Well that was fun. Hope you learned something.
