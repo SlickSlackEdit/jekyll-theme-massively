@@ -1,8 +1,8 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
-locale:             en_US
+title:              SlickSlack
+bio:                'All the Slick you can handle'
+description:        "All the Slack you deserve"
+locale:             en_CA
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
